@@ -58,7 +58,7 @@ transaction = {
     'category': 5411,
     'age': 35,
     'trans_amount': 50000,
-    'state': 'Maharashtra',
+    'state': 22,  # Numeric state code
     'zip': 400001
 }
 
